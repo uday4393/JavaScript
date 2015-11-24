@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Agriculture Data Plo Project</title>
+  </head>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <body style="margin-left:50px; font-size: 17px; font-family: 'Roboto', sans-serif;" >
+    <div>
+      <h1>Agriculture production of different foodgrains from year 2003 to 2014 at all India level</h1><br><br>
+        <a href="https://data.gov.in/catalog/agriculture-production-stock-yield">Source: https://data.gov.in/catalog/agriculture-production-stock-yield</a>
+        <h3><strong>Part 1: Data Munging</strong></h3>
+        <p>The goal of this part is to transform the the data from the raw csv file to a json file with a schema suitable to plot in phase 2.
+        Steps:</p>
+        <p>Download the csv version of the data</p>
+        <p>Write a nodejs program that converts the csv file to json input file for d3.js</p><br><br>
+
+        <h3><strong>Part 2: Plottng</h3></strong>
+        <h3><strong>Write a D3.js web page, which loads json produced in Part 1 Plot the following</h3></strong>
+        <p>1a)For the year 2013, plot the all oilseed crop type vs .production, in descending order.<a href="main index/index.html">Click here to go to 1st plot a</a></p>
+        <p>1b)For the year 2013, plot the all the Foodgrains type vs. production, in descending order.<a href="main index/index.html">Click here to go to 1st plot b</a></p>
+        <p>2)Aggregate all commercial crops and plot the aggregated value vs. year. Note: assume a value of 0 for “NA”.<a href="main index/index2.html">Click here to go to 2nd plot</a></p>
+        <p>3)Plot a stacked chart of rice production in the 4 southern states. Note. In this time period the data is for undivided Andhra Pradesh.<a href="main index/index3.html">Click here to go to 3rd plot</a></p><br>
+    </div>
+</body>
+</html>

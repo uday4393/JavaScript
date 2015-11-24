@@ -1,0 +1,58 @@
+[
+    {
+        "grain": "Rice",
+        "value": 105.24000000000001
+    },
+    {
+        "grain": "Wheat",
+        "value": 93.51
+    },
+    {
+        "grain": "Jowar",
+        "value": 5.279999999999999
+    },
+    {
+        "grain": "Bajra",
+        "value": 8.74
+    },
+    {
+        "grain": "Maize",
+        "value": 22.25
+    },
+    {
+        "grain": "Ragi",
+        "value": 1.57
+    },
+    {
+        "grain": "Small Millets",
+        "value": 0.44
+    },
+    {
+        "grain": "Barley",
+        "value": 1.75
+    },
+    {
+        "grain": "Coarse Cereals",
+        "value": 40.04
+    },
+    {
+        "grain": "Cereals",
+        "value": 278.83
+    },
+    {
+        "grain": "Tur",
+        "value": 3.02
+    },
+    {
+        "grain": "Other Kharif Pulses",
+        "value": 3.35
+    },
+    {
+        "grain": "Gram",
+        "value": 8.83
+    },
+    {
+        "grain": "Pulses",
+        "value": 21.689999999999998
+    }
+]
